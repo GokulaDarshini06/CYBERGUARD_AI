@@ -1,0 +1,6 @@
+{
+  "name": "CyberGuard AI",
+  "description": "AI-Driven Correlation of Cybersecurity Telemetry & Transactional Behaviour for Banking SOC",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
